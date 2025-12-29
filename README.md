@@ -191,18 +191,3 @@ git push -u origin main
 * Enhanced AI chatbot integration
 
 ```
-
----
-
-### 4️⃣ Save the File
-- Press **Ctrl+S** (Windows) / **Cmd+S** (Mac) to save.
-
----
-
-### 5️⃣ Optional: Preview Markdown in VS Code
-1. Press **Ctrl+Shift+V** (Windows) / **Cmd+Shift+V** (Mac)  
-2. Or click the **“Open Preview”** icon at the top-right of the editor.
-
----
-
-```
